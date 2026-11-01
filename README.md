@@ -1,5 +1,8 @@
 <div align="center">
 
+<img width="1584" height="396" alt="Black and White Simple Motivational Quote LinkedIn Banner (11)" src="https://github.com/user-attachments/assets/9d1f10bf-d4f7-4414-a101-6dc6df8564a8" />
+
+
 # Saim Naseem
 
 ### Software Engineer • AI Backend • Cloud Engineering
