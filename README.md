@@ -1,13 +1,10 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Black and White Simple Motivational Quote LinkedIn Banner (11)" src="https://github.com/user-attachments/assets/9d1f10bf-d4f7-4414-a101-6dc6df8564a8" />
-
-
-# Saim Naseem
-
-### Software Engineer • AI Backend • Cloud Engineering
+<img width="1584" height="396" alt="Saim Naseem GitHub Banner" src="https://github.com/user-attachments/assets/9d1f10bf-d4f7-4414-a101-6dc6df8564a8" />
 
 **Building Systems. Growing Faster.**
+
+**Software Engineer • Backend & Cloud • AI Systems**
 
 <br>
 
@@ -25,12 +22,12 @@
 ```yaml
 name:       Saim Naseem
 role:       Software Engineer
-studying:   B.Sc. Business Informatics @ Hochschule RheinMain
-based_in:   Frankfurt / Wiesbaden, Germany
+studying:   B.Sc. Economics & Computer Science (Wirtschaftsinformatik) @ Hochschule RheinMain
+based_in:   Frankfurt, Germany
 
 focus:
   - Backend Engineering
-  - AI Integration
+  - AI Systems
   - Cloud Engineering
   - DevOps
 
@@ -43,7 +40,7 @@ interests:
   - Distributed Systems
   - Artificial Intelligence
   - Backend Architecture
-  - Developer Infrastructure
+  - Cloud Infrastructure
 ```
 
 I build backend systems and AI-powered applications with a focus on **reliability, scalability and real-world usability**.
@@ -79,9 +76,9 @@ Focus on software engineering, databases and information systems.
 
 ### 🚀 Building
 
-Working on independent software projects and **BuildBySaim**.
+Building independent software products and **BuildBySaim**.
 
-Exploring AI integration, backend architecture and cloud systems.
+Exploring AI systems, backend architecture and cloud infrastructure.
 
 </td>
 
@@ -108,9 +105,9 @@ Full-stack e-commerce platform combining backend infrastructure with AI-assisted
 
 **Agentic Lead Management Platform**
 
-Backend system that processes incoming enquiries, structures lead information and uses AI to classify and prioritise leads.
+Backend platform that processes incoming enquiries, structures lead information and uses AI to classify and prioritise leads.
 
-`Java` `Spring Boot` `AI` `PostgreSQL` `REST`
+`Java` `Spring Boot` `Python` `AI` `PostgreSQL` `REST`
 
 → [View Project](DEIN_SMARTLEAD_GITHUB_LINK)
 
@@ -120,40 +117,73 @@ Backend system that processes incoming enquiries, structures lead information an
 
 **Cloud-ready Product Service**
 
-RESTful backend service with persistent storage, database migrations and image handling.
+RESTful backend service with persistent storage, database migrations, image handling and production deployment.
 
-`Spring Boot` `PostgreSQL` `Flyway` `Docker`
+`Spring Boot` `PostgreSQL` `Flyway` `Docker` `Cloudinary`
 
 → [View Project](DEIN_TICKTRADE_GITHUB_LINK)
 
 ---
 
-## `> tech --stack`
+## `> cat stack.toml`
 
-### Languages
+<div align="center">
 
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+### Core Stack
 
-### Backend
+<img src="https://skillicons.dev/icons?i=java,python,ts,spring,postgres,docker,kubernetes,aws,git,github,linux,nextjs,react&perline=13" />
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+<br><br>
 
-### Cloud & DevOps
+### Engineering Tools
 
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-000000?style=flat-square&logo=kubernetes&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-000000?style=flat-square&logo=flyway&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### Frontend
+<br>
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+### AI & Cloud
+
+![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=flat-square&logo=spring&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-000000?style=flat-square&logo=amazonrds&logoColor=white)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-000000?style=flat-square&logo=amazonecs&logoColor=white)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-000000?style=flat-square&logo=amazoncognito&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+
+</div>
+
+<br>
+
+| Domain | What I reach for |
+| --- | --- |
+| **Backend** | Java · Spring Boot · Spring Data JPA · Hibernate · REST APIs · Maven |
+| **AI Systems** | Python · Spring AI · Hugging Face · LLM integrations · AI-assisted workflows |
+| **Data** | PostgreSQL · AWS RDS · SQL · Flyway · Data modeling |
+| **Cloud** | AWS · ECS/Fargate · RDS · Cognito · Railway · Vercel |
+| **DevOps** | Docker · Kubernetes · GitHub Actions · Linux · Git |
+| **Testing** | JUnit · Mockito · k6 · Integration testing |
+| **Frontend** | Next.js · React · TypeScript · Tailwind CSS |
+| **Platform** | Cloudinary · Stripe · REST integrations · CI/CD |
+
+---
+
+## `> architecture --focus`
+
+```text
+API Design          → RESTful services & backend architecture
+Data                → PostgreSQL, schema design & migrations
+AI                  → LLM integrations & intelligent workflows
+Cloud               → AWS infrastructure & containerised deployments
+DevOps              → Docker, Kubernetes & CI/CD
+Reliability         → Testing, performance & production readiness
+```
 
 ---
 
