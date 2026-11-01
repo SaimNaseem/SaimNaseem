@@ -8,10 +8,10 @@
 
 <br>
 
-[![BuiltBySaim](https://img.shields.io/badge/BuiltBySaim-000000?style=for-the-badge&logo=googlechrome&logoColor=0A66C2)](https://builtbysaim.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/saim-naseem/)
-[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=0A66C2)](mailto:saimnaseem@outlook.de)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=0A66C2)](https://github.com/SaimNaseem)
+[![BuiltBySaim](https://img.shields.io/badge/BuiltBySaim-000000?style=for-the-badge&logo=googlechrome&logoColor=39FF14)](https://builtbysaim.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/saim-naseem/)
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:saimnaseem@outlook.de)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=39FF14)](https://github.com/SaimNaseem)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 ## `> whoami`
 
-```yaml
+```yaml id="j1wceb"
 name:       Saim Naseem
 role:       Software Engineer
 studying:   B.Sc. Economics & Computer Science (Wirtschaftsinformatik) @ Hochschule RheinMain
@@ -137,25 +137,25 @@ RESTful backend service with persistent storage, database migrations, image hand
 
 ### Engineering Tools
 
-![Maven](https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=0A66C2)
-![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=0A66C2)
-![JUnit](https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=0A66C2)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=0A66C2)
-![Flyway](https://img.shields.io/badge/Flyway-000000?style=flat-square&logo=flyway&logoColor=0A66C2)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=0A66C2)
-![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=0A66C2)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=0A66C2)
+![Maven](https://img.shields.io/badge/Maven-000000?style=flat-square&logo=apachemaven&logoColor=39FF14)
+![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=flat-square&logo=hibernate&logoColor=39FF14)
+![JUnit](https://img.shields.io/badge/JUnit-000000?style=flat-square&logo=junit5&logoColor=39FF14)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=39FF14)
+![Flyway](https://img.shields.io/badge/Flyway-000000?style=flat-square&logo=flyway&logoColor=39FF14)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=39FF14)
+![Railway](https://img.shields.io/badge/Railway-000000?style=flat-square&logo=railway&logoColor=39FF14)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=39FF14)
 
 <br>
 
 ### AI & Cloud
 
-![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=flat-square&logo=spring&logoColor=0A66C2)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=0A66C2)
-![AWS RDS](https://img.shields.io/badge/AWS_RDS-000000?style=flat-square&logo=amazonrds&logoColor=0A66C2)
-![AWS ECS](https://img.shields.io/badge/AWS_ECS-000000?style=flat-square&logo=amazonecs&logoColor=0A66C2)
-![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-000000?style=flat-square&logo=amazoncognito&logoColor=0A66C2)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=0A66C2)
+![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=flat-square&logo=spring&logoColor=39FF14)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=39FF14)
+![AWS RDS](https://img.shields.io/badge/AWS_RDS-000000?style=flat-square&logo=amazonrds&logoColor=39FF14)
+![AWS ECS](https://img.shields.io/badge/AWS_ECS-000000?style=flat-square&logo=amazonecs&logoColor=39FF14)
+![AWS Cognito](https://img.shields.io/badge/AWS_Cognito-000000?style=flat-square&logo=amazoncognito&logoColor=39FF14)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=39FF14)
 
 </div>
 
@@ -176,7 +176,7 @@ RESTful backend service with persistent storage, database migrations, image hand
 
 ## `> architecture --focus`
 
-```text
+```text id="565gri"
 API Design          → RESTful services & backend architecture
 Data                → PostgreSQL, schema design & migrations
 AI                  → LLM integrations & intelligent workflows
@@ -189,7 +189,7 @@ Reliability         → Testing, performance & production readiness
 
 ## `> currently`
 
-```text
+```text id="4tn6tp"
 building    → backend & AI-powered applications
 learning    → distributed systems, cloud & AI engineering
 studying    → B.Sc. Business Informatics
