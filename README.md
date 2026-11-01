@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1584" height="396" alt="Saim Naseem GitHub Banner" src="https://github.com/user-attachments/assets/9d1f10bf-d4f7-4414-a101-6dc6df8564a8" />
+<img width="1584" height="396" alt="Black and White Simple Motivational Quote LinkedIn Banner (13)" src="https://github.com/user-attachments/assets/ba23fa75-7976-4344-adc6-f57633a47979" />
+
 
 **Building Systems. Growing Faster.**
 
