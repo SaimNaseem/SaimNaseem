@@ -204,10 +204,10 @@ writing     → BuildBySaim
 
 ### Let's connect.
 
-[Portfolio](https://builtbysaim.de) •
-[LinkedIn](DEIN_LINKEDIN_LINK) •
-[Email](mailto:DEINE_EMAIL) •
-[GitHub](DEIN_GITHUB_LINK)
+[BuiltBySaim](https://builtbysaim.com) •
+[LinkedIn](https://www.linkedin.com/in/saim-naseem/) •
+[Email](mailto:saimnaseem@outlook.de) •
+[GitHub](https://github.com/SaimNaseem)
 
 <br>
 
